@@ -10,5 +10,6 @@
 </head>
 <body class="bg-gray-100 text-gray-800">
     @yield('content')
+    @yield('js')
 </body>
 </html>
